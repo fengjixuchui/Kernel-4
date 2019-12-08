@@ -1,0 +1,5 @@
+#
+# ROSY drivers configuration
+#
+menu "Drivers for ROSY"
+endmenu
